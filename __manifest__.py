@@ -35,8 +35,8 @@
     'website': 'https://www.cybrosys.com',
     'data': [
         'security/vehicle_inspection_access.xml',
-        'security/ir.model.access.csv',
         'security/vehicle_inspection_management_security.xml',
+        'security/ir.model.access.csv',
         'data/ir_sequence_data.xml',
         'data/ir_cron_data.xml',
         'data/mail_template_data.xml',
